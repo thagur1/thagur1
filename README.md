@@ -1,6 +1,5 @@
 - 👋 Hi, I’m AMBATI THAGUR PAWAN KUMAR REDDY
-- 👀 I’m interested in Full Stack Dev,IoT
-- 🌱 I’m currently learning Python,Tableau
+- 👀 I’m interested in Cyber security, Full Stack Dev,IoT
 - 💞️ I’m looking to collaborate on Devlopment
 - 📫 How to reach me ---> ambatithagursm@gmail.com
 - 😄 Pronouns: Him/He
